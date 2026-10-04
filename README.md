@@ -2,10 +2,10 @@
 
 End To End Project (SQL  + Python + Power BI)
 
-Power Bi Dashboard Link:
+### Power Bi Dashboard Link:
 (https://drive.google.com/file/d/1uFGfTLEu_h792tYhmNF4wYDsxJMBe1Hv/view?usp=drive_link)
 
-​### Project Overview
+### Project Overview
 
 ​This project is a comprehensive analysis of a pizza store's sales data for the year 2015.
 The goal was to transform raw data into actionable business insights using a modern data stack. 
