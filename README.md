@@ -21,7 +21,7 @@ Power BI Desktop (Data Modeling & Visualization)
 ​Query Language: 
 SQL (Postgres dialect)
 ​Reporting:
-DAX (Data Analysis Expressions) for custom KPIs
+DAX (Data Analysis Expressions) for custom KPIs.
 
 ​​### Key Business Insights (The "Story")
 
