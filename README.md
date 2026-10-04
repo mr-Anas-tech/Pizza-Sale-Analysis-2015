@@ -11,7 +11,7 @@ End To End Project (SQL  + Python + Power BI)
 The goal was to transform raw data into actionable business insights using a modern data stack. 
 I handled everything from database management and SQL querying to interactive dashboard design.
 
-​ Tech Stack
+### Tech Stack
 
 python(Numpy,Pandas,Matplotlib,sqlalchemy ( create_engine))
 ​Database:
@@ -23,7 +23,7 @@ SQL (Postgres dialect)
 ​Reporting:
 DAX (Data Analysis Expressions) for custom KPIs.
 
-​​ Key Business Insights (The "Story")
+### Key Business Insights (The "Story")
 
 ​1. Sales Performance & Profitability
 
@@ -40,7 +40,7 @@ DAX (Data Analysis Expressions) for custom KPIs.
 ​Hourly Rush: SQL analysis confirmed peak order times are 12:00 PM - 1:00 PM (Lunch) and 6:00 PM (Dinner).
 ​The October Dip: Identified a significant sales drop in October, presenting an opportunity for targeted marketing.
 
-​ Strategic Recommendations
+### Strategic Recommendations
 
 ​Dynamic Staffing: 
 
